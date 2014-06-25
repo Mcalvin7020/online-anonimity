@@ -6,7 +6,7 @@ Many people take their online privacy very seriously, concerned about who may be
 Research and briefly describe what the TOR network is and how it works. (2 marks)
 
 ```
-answer here
+TOR is an "onion-routing" system which makes a PC's net address untraceable by bouncing the encrypted data it sends through several randomly selected computer servers on a volunteer network - each of which removes a level of encryption - before it reaches its destination.
 ```
 
 Discuss the risks and benefits of such a network. (6 marks)
@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+To start, tor has some very disturbing risks, such as criminals hiding records and paedophiles using free space. butin the other side of it, is better things like being able to stay privatised from people who stress the individual out. but sometimes it's just used to keep quiet, out of the way of other problems.
 ```
